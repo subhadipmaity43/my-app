@@ -1,0 +1,16 @@
+{
+  "docfirstName": "Dr. Abhirup Maity",
+  "docdegree": "MD , MBBS, FRCS, FRCOG",
+  "patName": "Subhadip Maity",
+  "patage": "30",
+  "patsex": "F",
+  "pateaddress": "123 Main St, Kolkata, West Bengal 700054",
+  "patphone": "+91 8250946026",
+  "visitDate": "2024-08-01",
+  "chiefComplaint": "• Patients with diabetes mellitus most commonly present with increased thirst",
+  "illness": "No prior illness",
+  "physical": "Normal",
+  "diagnosis": "Migraine",
+  "medicine": "• Insulin is given as an infusion under the skin or as an injection.",
+  "test": "• Random blood sugar test."
+}
